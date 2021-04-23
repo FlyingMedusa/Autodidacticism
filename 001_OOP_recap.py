@@ -1,5 +1,4 @@
 
-
 class Hogwarts:
 
     def __init__(self):
